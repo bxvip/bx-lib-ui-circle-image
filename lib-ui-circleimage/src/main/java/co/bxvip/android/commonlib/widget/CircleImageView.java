@@ -21,6 +21,8 @@ import android.util.AttributeSet;
 import android.util.TypedValue;
 import android.widget.ImageView;
 
+import co.bxvip.commonlib.circleimage.R;
+
 public class CircleImageView extends ImageView {
 
     private static final ScaleType SCALE_TYPE = ScaleType.CENTER_CROP;      //只允许CENTER_CROP模式
